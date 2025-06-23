@@ -2,8 +2,6 @@
 
 Ce dossier Repository est lié au cours `JavaScript : Défis code`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url] 
-
 Si vous aimez relever des défis, des casse-têtes ou des devinettes, cette formation est pour vous. Vous allez devoir résoudre des énigmes, en code, avec du langage JavaScript. Rama Soumaré, experte en développement web, vous a concocté plusieurs défis pour vous tester en tant que développeur. Par exemple, vous allez utiliser du code pour trouver le chiffre mystère, créer un système pour compter, déterminer si une personne est mineure ou majeure, créer une pyramide, etc. Ainsi, vous allez mettre en pratique les boucles, les conditions, les tableaux ou les formulaires.
 
 
